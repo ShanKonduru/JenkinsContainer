@@ -1,4 +1,3 @@
-# Example plugins
 workflow-aggregator
 git
 github
