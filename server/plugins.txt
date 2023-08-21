@@ -1,0 +1,9 @@
+# Example plugins
+workflow-aggregator
+git
+github
+docker-plugin
+credentials
+python
+pipeline-utility-steps
+envinject
